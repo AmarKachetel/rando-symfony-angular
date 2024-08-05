@@ -1,0 +1,12 @@
+# Symfony / PHP
+my-symfony-project/var/
+my-symfony-project/vendor/
+my-symfony-project/.env
+
+# Node.js
+my-angular-frontend/node_modules/
+my-angular-frontend/dist/
+
+# IDEs
+/.idea/
+/*.code-workspace
